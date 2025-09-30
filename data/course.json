@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "fd0b03a3-7f84-f25b-d93f-6d4b5f886bfa",
+  "instructors": {
+    "content": [
+      "85ab3674-2b69-2eb7-b0f7-94ae0b25566e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "163956c6-44c0-720c-adcd-a5c09101e616",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2006"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "hide_download": true,
+  "course_description": "This course runs parallel to 8.02, but assumes that students have some knowledge of vector calculus. The class introduces Maxwell's equations, in both differential and integral form, along with electrostatic and magnetic vector potential, and the properties of dielectrics and magnetic materials.\n\nThis class was taught by an undergraduate in the [Experimental Study Group](http://esg.mit.edu/) (ESG). Student instructors are paired with ESG faculty members, who advise and oversee the students' teaching efforts.",
+  "department_numbers": [
+    "8",
+    "ES"
+  ],
+  "extra_course_numbers": "ES.8022",
+  "primary_course_number": "8.022",
+  "course_image_thumbnail": {
+    "content": "4d7cc8c8-7949-557d-9e59-dd4168b07ba3",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2006"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "ae0ffff4-55e7-4024-a9f9-7804ffb250d7",
+  "site_short_id": "8.022-fall-2006",
+  "site_url_path": "courses/8-022-physics-ii-electricity-and-magnetism-fall-2006",
+  "title": "Course Metadata"
+}
